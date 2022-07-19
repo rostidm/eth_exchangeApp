@@ -1,0 +1,1 @@
+export const shortenAddress = (adress) => `${adress}`;
